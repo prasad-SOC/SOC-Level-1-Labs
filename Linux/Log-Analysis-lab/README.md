@@ -137,5 +137,6 @@ Perform correlation and timeline analysis
 
 Create a structured SOC investigation report
 
-📂 Next Step
+##📂 Next Step
+
 Compare your answers with the provided answers.md file to verify your analysis.
